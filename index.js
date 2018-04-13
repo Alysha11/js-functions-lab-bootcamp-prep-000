@@ -2,7 +2,8 @@
 function happyHolidays(string) {
   return "Happy holidays!";
 }
+var name 
 
-function happyHolidaysTo ([name]) {
+function happyHolidaysTo (string) {
   return "happyHolidays, $[name]!";
 }
